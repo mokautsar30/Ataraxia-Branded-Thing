@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Loose Fit Boxy Shirt",
+    "description": "Boxy-style shirt in a coated, woven fabric with a collar and buttons down the front. Loose fit with dropped shoulders, short sleeves, a yoke at the back and a straight-cut hem",
+    "price": 499000,
+    "stock": 5,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/a5339c520a6042b5bf752d25a8c89166ec17f511_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Regular Fit Corduroy Shirt",
+    "description": "Regular-fit shirt in soft cotton corduroy with a turn-down collar, classic front, open chest pocket and yoke at the back. Long sleeves with buttoned cuffs and a sleeve placket with a link button. Rounded hem.",
+    "price": 430000,
+    "stock": 6,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/2b13b8e121a0d6bc92821cc8b65eb7ca87663cc7_xxl-1.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  }
+]
